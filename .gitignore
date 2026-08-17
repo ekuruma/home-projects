@@ -40,7 +40,7 @@ yarn-debug.log*
 .nvm/
 .config/opencode/
 .codex/.tmp/
-projects/azure_databricks/
+projects/data-lakehouse/
 projects/spotify-codex/
 .azure-cli-venv/
 

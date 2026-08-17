@@ -8,7 +8,7 @@ Personal repository containing various projects and work-in-progress code for le
 home-projects/
 ├── projects/                      # Main projects directory
 │   ├── spotify-codex/            # Spotify API integration and automation
-│   ├── azure_databricks/         # Azure and Databricks data engineering
+│   ├── data-lakehouse/         # Data lakehouse engineering
 │   ├── utilities-pbi-analytics/  # Business Intelligence for utilities
 │   └── [other projects]/         # Various experimental projects
 ├── utilities-analytics/           # Utilities analytics projects and documentation
