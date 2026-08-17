@@ -6,23 +6,22 @@ Personal repository containing various projects and work-in-progress code for le
 
 ```
 home-projects/
-├── projetos/                     # Main projects directory
-│   ├── spotify-codex/           # Spotify API integration and automation
-│   ├── azure_databricks/        # Azure and Databricks data engineering
-│   ├── utilities-pbi-analytics/ # Business Intelligence for utilities
-│   └── [other projects]/        # Various experimental projects
-├── utilities-analytics/          # Utilities analytics projects and documentation
-├── recursos/                     # Resources, templates, and utilities
-├── relatorio_datasphere/        # DataSphere reports and analysis
-├── relatorio_ora_dw/            # Oracle Data Warehouse reports
-└── google-chrome-stable/        # Chrome installation resources
+├── projetos/                      # Main projects directory
+│   ├── spotify-codex/            # Spotify API integration and automation
+│   ├── azure_databricks/         # Azure and Databricks data engineering
+│   ├── utilities-pbi-analytics/  # Business Intelligence for utilities
+│   └── [other projects]/         # Various experimental projects
+├── utilities-analytics/           # Utilities analytics projects and documentation
+├── recursos/                      # Resources, templates, and utilities
+├── data-warehouse-reports/       # Data warehouse and analytics reports
+└── google-chrome-stable/         # Chrome installation resources
 ```
 
 ## 🛠️ Technologies & Tools
 
-- **Cloud Platforms**: SAP Datasphere, Azure, Databricks, Google Cloud
-- **Data Engineering**: Oracle DW, DataSphere CLI, Python
-- **APIs**: Spotify Web API, Azure CLI, SAP APIs
+- **Cloud Platforms**: Azure, Databricks, Google Cloud, SAP
+- **Data Engineering**: Python, SQL, Data warehousing
+- **APIs**: Spotify Web API, Azure CLI
 - **Tools**: Docker, Eclipse IDE, NVM (Node Version Manager)
 - **Development**: VSCode, Git, GitHub CLI
 
@@ -106,10 +105,9 @@ Each project may have its own license - see individual project directories for d
 
 ## 🙏 Acknowledgments
 
-- SAP team for Datasphere and related tools
 - Microsoft for Azure platform and tools
 - Spotify for the Web API
-- Open source community for excellent tools and libraries
+- Apache, Databricks, and open source community for excellent tools and libraries
 
 ---
 
