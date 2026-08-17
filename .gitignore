@@ -40,8 +40,8 @@ yarn-debug.log*
 .nvm/
 .config/opencode/
 .codex/.tmp/
-projetos/azure_databricks/
-projetos/spotify-codex/
+projects/azure_databricks/
+projects/spotify-codex/
 .azure-cli-venv/
 
 # System files

@@ -6,13 +6,13 @@ Personal repository containing various projects and work-in-progress code for le
 
 ```
 home-projects/
-├── projetos/                      # Main projects directory
+├── projects/                      # Main projects directory
 │   ├── spotify-codex/            # Spotify API integration and automation
 │   ├── azure_databricks/         # Azure and Databricks data engineering
 │   ├── utilities-pbi-analytics/  # Business Intelligence for utilities
 │   └── [other projects]/         # Various experimental projects
 ├── utilities-analytics/           # Utilities analytics projects and documentation
-├── recursos/                      # Resources, templates, and utilities
+├── resources/                      # Resources, templates, and utilities
 ├── data-warehouse-reports/       # Data warehouse and analytics reports
 └── google-chrome-stable/         # Chrome installation resources
 ```
@@ -51,14 +51,14 @@ git config --global user.email "ernesto.kuruma@gmail.com"
 
 ### Explore Projects
 
-Navigate to the `projetos/` directory to find individual project READMEs and documentation.
+Navigate to the `projects/` directory to find individual project READMEs and documentation.
 
 ## 📚 Documentation
 
 - Individual projects have their own README files in their directories
-- See `recursos/` for templates, guides, and utility scripts
+- See `resources/` for templates, guides, and utility scripts
 - Check `utilities-analytics/` for utilities-specific project documentation
-- Review `projetos/utilities-pbi-analytics/` for Business Intelligence implementations
+- Review `projects/utilities-pbi-analytics/` for Business Intelligence implementations
 
 ## 🔧 Development Workflow
 
